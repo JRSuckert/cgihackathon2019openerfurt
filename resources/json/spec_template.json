@@ -4,3 +4,9 @@
     {"name":  "<name>", ...}
   ]
 }
+
+type_param:
+int: max. length
+float: e.g.: 4.2
+string: length
+date: = timestamp
