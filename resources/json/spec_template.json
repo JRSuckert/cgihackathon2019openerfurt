@@ -1,10 +1,22 @@
 {
   "service_name": "vmt",
   "tables": [
-    {"name": "trips", //generate table name: $servicename_$tablename
-    "attributes": [
-    {"name":  "<name>", "type": "<int|float|string|date>", "type_param":  "<param>", "nullable":  "<true|false>", "primary_key": "<true|false>"},
-    {"name":  "<name>", ...}],
+    {
+      "name": "trips",
+      //generate table name: $servicename_$tablename
+      "attributes": [
+        {
+          "name": "<name>",
+          "type": "<int|float|string|date>",
+          "type_param": "<param>",
+          "nullable": "<true|false>",
+          "primary_key": "<true|false>"
+        },
+        {
+          "name": "<name>",
+          ...
+        }
+      ]
     }
   ]
 }
