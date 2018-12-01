@@ -1,0 +1,91 @@
+[
+	{
+	"id":"1",
+	"lat":"50.9730538",
+	"long":"11.034909500000026",
+	"adress":"Thomasstraße 84",
+	"plz":"99084",
+	"city":"Erfurt"
+	},
+	{
+	"id":"8",
+	"lat":"50.9750647",
+	"long":"11.035434099999975",
+	"adress":"Bahnhofstraße 5",
+	"plz":"99084",
+	"city":"Erfurt"
+	},
+	{
+	"id":"10",
+	"lat":"50.9944241",
+	"long":"11.066296800000032",
+	"adress":"Ernst-Neufert-Weg 1",
+	"plz":"99085",
+	"city":"Erfurt"
+	},
+	{
+	"id":"9",
+	"lat":"50.963107",
+	"long":"11.037107600000013",
+	"adress":"Johann-Sebastian-Bach-Straße",
+	"plz":"99096",
+	"city":"Erfurt"
+	},
+	{
+	"id":"7",
+	"lat":"50.9733196",
+	"long":"11.03074939999999",
+	"adress":"Hirschlachufer 11",
+	"plz":"99084",
+	"city":"Erfurt"
+	},
+	{
+	"id":"6",
+	"lat":"50.9735545",
+	"long":"11.033486799999991",
+	"adress":"Lachsgasse 51",
+	"plz":"99084",
+	"city":"Erfurt"
+	},
+	{
+	"id":"5",
+	"lat":"50.9737897",
+	"long":"11.037256699999944",
+	"adress":"Schmidtstedter Straße 57",
+	"plz":"99084",
+	"city":"Erfurt"
+	},
+	{
+	"id":"4",
+	"lat":"50.9707477",
+	"long":"11.017537299999958",
+	"adress":"Bonifaciusstraße 13",
+	"plz":"99084",
+	"city":"Erfurt"
+	},
+	{
+	"id":"3",
+	"lat":"50.9780024",
+	"long":"11.037507699999992",
+	"adress":"Anger 1",
+	"plz":"99084",
+	"city":"Erfurt"
+	},
+	{
+	"id":"2",
+	"lat":"50.97764",
+	"long":"11.022138199999972",
+	"adress":"Bechtheimer Straße 1",
+	"plz":"99084",
+	"city":"Erfurt"
+	},
+	{
+	"id":"1",
+	"lat":"50.984099",
+	"long":"11.031083099999933",
+	"adress":"Wallstraße 18",
+	"plz":"99084",
+	"city":"Erfurt"
+	}
+]
+	
